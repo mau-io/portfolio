@@ -45,7 +45,6 @@ This is the source code for my personal website.
 <img alt="Wireframe" src="./img/readme/1.jpg" width="900">
 - About
 <img alt="Wireframe" src="./img/readme/2.jpg"  width="900">
----
 
 ## Built With
 
