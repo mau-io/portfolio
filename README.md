@@ -1,6 +1,6 @@
 # Mauricio Portfolio
 
-This is the source code for my personal website.
+Welcome to the source code for my personal website. This website showcases my skills and experience as a developer.
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
@@ -23,28 +23,16 @@ This is the source code for my personal website.
 ## Design
 
 ### Fonts
-
-[Fire Code](https://fonts.google.com/specimen/Fira+Code) - headings and code text
+I used [Fire Code](https://fonts.google.com/specimen/Fira+Code) Code for headings and code text, and [Nunito](https://fonts.google.com/specimen/Nunito) for normal text. Here's what they look like:
 
 <img alt="Font Example Screenshot" src="./img/readme/fire-code.png">
-
-
-[Nunito](https://fonts.google.com/specimen/Nunito) - normal text
-
 <img alt="Font Example Screenshot" src="./img/readme/nunito.png">
 
 ### Color Scheme
-
+I chose the following color palette for my website:
 <img alt="Color Palette Screenshot" src="./img/readme/palette.png">
 
 ---
-
-## Wireframes
-
-- Home
-<img alt="Wireframe" src="./img/readme/1.jpg" width="900">
-- About
-<img alt="Wireframe" src="./img/readme/2.jpg"  width="900">
 
 ## Built With
 
