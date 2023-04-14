@@ -48,6 +48,9 @@
 .my-name {
     letter-spacing: 0.1em;
     font-family: 'Fira Code', monospace;
+    background-image: linear-gradient(45deg, var(--base) 25%, var(--complimentary2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 h3 {
@@ -91,14 +94,17 @@ h3 a:hover {
     width: -moz-fit-content;
     padding: 10px 12px;
     border-radius: 4px;
-    border: 1px solid  var(--primary);
+    border: 1px solid var(--primary);
     font-weight: 700;
     letter-spacing: 0.05em;
     color: #1D263B;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     margin-top: 50px;
     transition: all 0.2s ease;
     cursor: pointer;
+    background: rgba(255, 255, 255, 0.375);
+    box-shadow: 0 0.75rem 2rem 0 rgba(0, 0, 0, 0.1);
+    border: 2px solid rgb(173 173 173 / 37%);
 }
 
 .cta img {

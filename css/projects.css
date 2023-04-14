@@ -29,13 +29,17 @@ em {
     max-width: 100%;
     border-radius: 10px 10px 0 0;
     padding: 5px;
-    background-color: white;
+    background-color: #ffffff73;
 }
 
 .card-info {
     padding: 25px;
     background-color: #FFFFFF;
     border-radius: 0 0 10px 10px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.375);
+    box-shadow: 0 0.75rem 2rem 0 rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.125);
 }
 
 .has-no-preview .card-info {

@@ -1,6 +1,6 @@
 :root {
     --primary: #1e90ff;
-    --secondary: #7d58ff;
+    --secondary: #1e90ff /*#7d58ff*/;
     --tertiary: #ff007d;
     --quaternary: #14c684;
 }  
@@ -12,7 +12,7 @@
     font-family: 'Nunito', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: #76829d;
+    color: #313a4e;
     scroll-behavior: smooth;
 }
 
